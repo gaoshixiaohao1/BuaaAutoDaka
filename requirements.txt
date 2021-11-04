@@ -1,0 +1,4 @@
+APScheduler==3.8.0
+loguru==0.5.3
+python_logging_loki==0.3.1
+requests==2.22.0
